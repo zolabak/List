@@ -1,249 +1,87 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1:0:19:2264:438:1:C00000:0:0:0:" tvg-name="CANAL+SPORT" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="CANALSAT SPORTS",CANAL+SPORT#EXTVLCOPT:program=8804
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:2264:438:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="1:0:19:2460:440:1:C00000:0:0:0:" tvg-name="TF1" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",TF1#EXTVLCOPT:program=9312
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:2460:440:1:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="1:0:19:24C8:43C:1:C00000:0:0:0:" tvg-name="CANAL+SPORT360" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="CANALSAT SPORTS",CANAL+SPORT360#EXTVLCOPT:program=9416
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:24C8:43C:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="1:0:19:245A:440:1:C00000:0:0:0:" tvg-name="FRANCE 2" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",FRANCE 2#EXTVLCOPT:program=9306
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:245A:440:1:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="1:0:19:2271:438:1:C00000:0:0:0:" tvg-name="CANAL+FOOT" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="CANALSAT SPORTS",CANAL+FOOT#EXTVLCOPT:program=8817
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:2271:438:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="1:0:19:245D:440:1:C00000:0:0:0:" tvg-name="FRANCE 3" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",FRANCE 3#EXTVLCOPT:program=9309
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:245D:440:1:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="1:0:19:2461:440:1:C00000:0:0:0:" tvg-name="EUROSPORT 1" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="CANALSAT SPORTS",EUROSPORT 1#EXTVLCOPT:program=9313
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:2461:440:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="1:0:19:21FD:44C:1:C00000:0:0:0:" tvg-name="FRANCE 4" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",FRANCE 4#EXTVLCOPT:program=8701
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:21FD:44C:1:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="1:0:19:24BE:43C:1:C00000:0:0:0:" tvg-name="EUROSPORT 2" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="CANALSAT SPORTS",EUROSPORT 2#EXTVLCOPT:program=9406
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:24BE:43C:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="1:0:19:2330:442:1:C00000:0:0:0:" tvg-name="FRANCE 5" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",FRANCE 5#EXTVLCOPT:program=9008
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:2330:442:1:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="1:0:19:2332:442:1:C00000:0:0:0:" tvg-name="INFOSPORT+" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="CANALSAT SPORTS",INFOSPORT+#EXTVLCOPT:program=9010
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:2332:442:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="1:0:19:2457:440:1:C00000:0:0:0:" tvg-name="M6" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",M6#EXTVLCOPT:program=9303
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:2457:440:1:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="1:0:19:2207:44C:1:C00000:0:0:0:" tvg-name="GOLF+" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="CANALSAT SPORTS",GOLF+#EXTVLCOPT:program=8711
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:2207:44C:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="1:0:19:2458:440:1:C00000:0:0:0:" tvg-name="W9" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",W9#EXTVLCOPT:program=9304
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:2458:440:1:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="1:0:19:2076:432:1:C00000:0:0:0:" tvg-name="L*EQUIPE" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="CANALSAT SPORTS",L*EQUIPE#EXTVLCOPT:program=8310
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:2076:432:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="1:0:19:2261:438:1:C00000:0:0:0:" tvg-name="CANAL+" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",CANAL+#EXTVLCOPT:program=8801
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:2261:438:1:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="1:0:19:3EC:50DC:16E:A00000:0:0:0:" tvg-name="SS-1 HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",SS-1 HD#EXTVLCOPT:program=1004
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:3EC:50DC:16E:A00000:0:0:0:
+#EXTINF:-1 tvg-id="1:0:19:22CD:434:1:C00000:0:0:0:" tvg-name="CANAL+" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",CANAL+#EXTVLCOPT:program=8909
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:22CD:434:1:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="1:0:19:3ED:50DC:16E:A00000:0:0:0:" tvg-name="SS-2 HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",SS-2 HD#EXTVLCOPT:program=1005
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:3ED:50DC:16E:A00000:0:0:0:
+#EXTINF:-1 tvg-id="1:0:19:200D:430:1:C00000:0:0:0:" tvg-name="CANAL+BOX OFFICE" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",CANAL+BOX OFFICE#EXTVLCOPT:program=8205
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:200D:430:1:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="1:0:19:3EE:50DC:16E:A00000:0:0:0:" tvg-name="SS-3 HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",SS-3 HD#EXTVLCOPT:program=1006
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:3EE:50DC:16E:A00000:0:0:0:
+#EXTINF:-1 tvg-id="1:0:19:207A:432:1:C00000:0:0:0:" tvg-name="CANAL+GRAND ECRAN" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",CANAL+GRAND ECRAN#EXTVLCOPT:program=8314
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:207A:432:1:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="1:0:19:3EF:50DC:16E:A00000:0:0:0:" tvg-name="SS-4 HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",SS-4 HD#EXTVLCOPT:program=1007
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:3EF:50DC:16E:A00000:0:0:0:
+#EXTINF:-1 tvg-id="1:0:19:2263:438:1:C00000:0:0:0:" tvg-name="CANAL+CINEMA(S)" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",CANAL+CINEMA(S)#EXTVLCOPT:program=8803
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:2263:438:1:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="1:0:19:7E4:5014:16E:A00000:0:0:0:" tvg-name="SS-5 HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",SS-5 HD#EXTVLCOPT:program=2020
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:7E4:5014:16E:A00000:0:0:0:
+#EXTINF:-1 tvg-id="1:0:19:2267:438:1:C00000:0:0:0:" tvg-name="CINE+ FRISSON" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",CINE+ FRISSON#EXTVLCOPT:program=8807
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:2267:438:1:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="1:0:19:7EE:5014:16E:A00000:0:0:0:" tvg-name="SS-6 HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",SS-6 HD#EXTVLCOPT:program=2030
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:7EE:5014:16E:A00000:0:0:0:
+#EXTINF:-1 tvg-id="1:0:19:2456:440:1:C00000:0:0:0:" tvg-name="CINE+ PREMIER" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",CINE+ PREMIER#EXTVLCOPT:program=9302
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:2456:440:1:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="1:0:19:58C:4F4C:16E:A00000:0:0:0:" tvg-name="SS-7 HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",SS-7 HD#EXTVLCOPT:program=1420
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:58C:4F4C:16E:A00000:0:0:0:
+#EXTINF:-1 tvg-id="1:0:19:2268:438:1:C00000:0:0:0:" tvg-name="CINE+ FAMIZ" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",CINE+ FAMIZ#EXTVLCOPT:program=8808
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:2268:438:1:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="1:0:19:485:76C0:16E:A00000:0:0:0:" tvg-name="Arena Sport 1 HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Arena Sport 1 HD#EXTVLCOPT:program=1157
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:485:76C0:16E:A00000:0:0:0:
+#EXTINF:-1 tvg-id="1:0:19:245B:440:1:C00000:0:0:0:" tvg-name="CINE+ EMOTION" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",CINE+ EMOTION#EXTVLCOPT:program=9307
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:245B:440:1:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="1:0:19:19C:3:40:A00000:0:0:0:" tvg-name="Arena Sport 1 HD." tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Arena Sport 1 HD.#EXTVLCOPT:program=412
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:19C:3:40:A00000:0:0:0:
+#EXTINF:-1 tvg-id="1:0:19:2269:438:1:C00000:0:0:0:" tvg-name="CINE+ CLASSIC" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",CINE+ CLASSIC#EXTVLCOPT:program=8809
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:2269:438:1:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="1:0:19:710:C5A8:16E:A00000:0:0:0:" tvg-name="Arena Sport 2 HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Arena Sport 2 HD#EXTVLCOPT:program=1808
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:710:C5A8:16E:A00000:0:0:0:
+#EXTINF:-1 tvg-id="1:0:19:200E:430:1:C00000:0:0:0:" tvg-name="CINE+ CLUB" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",CINE+ CLUB#EXTVLCOPT:program=8206
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:200E:430:1:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="1:0:16:4BA:76C1:16E:A00000:0:0:0:" tvg-name="Arena Sport 2" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Arena Sport 2#EXTVLCOPT:program=1210
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:16:4BA:76C1:16E:A00000:0:0:0:
+#EXTINF:-1 tvg-id="1:0:19:2266:438:1:C00000:0:0:0:" tvg-name="CANAL+SERIES" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",CANAL+SERIES#EXTVLCOPT:program=8806
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:2266:438:1:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="1:0:19:4BA:76C1:16E:A00000:0:0:0:" tvg-name="Arena Sport 2 HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Arena Sport 2 HD#EXTVLCOPT:program=1210
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:4BA:76C1:16E:A00000:0:0:0:
+#EXTINF:-1 tvg-id="1:0:19:24BC:43C:1:C00000:0:0:0:" tvg-name="OCS PULP" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",OCS PULP#EXTVLCOPT:program=9404
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:24BC:43C:1:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="1:0:19:6C:1:40:A00000:0:0:0:" tvg-name="Arena Sport 3 HD." tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Arena Sport 3 HD.#EXTVLCOPT:program=108
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:6C:1:40:A00000:0:0:0:
+#EXTINF:-1 tvg-id="1:0:19:226D:438:1:C00000:0:0:0:" tvg-name="OCS CITY" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",OCS CITY#EXTVLCOPT:program=8813
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:226D:438:1:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="1:0:19:718:C5A8:16E:A00000:0:0:0:" tvg-name="Arena Sport 4 HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Arena Sport 4 HD#EXTVLCOPT:program=1816
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:718:C5A8:16E:A00000:0:0:0:
+#EXTINF:-1 tvg-id="1:0:19:219A:448:1:C00000:0:0:0:" tvg-name="OCS GEANTS" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",OCS GEANTS#EXTVLCOPT:program=8602
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:219A:448:1:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="1:0:19:BE:3:40:A00000:0:0:0:" tvg-name="Arena Sport 5 HD." tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Arena Sport 5 HD.#EXTVLCOPT:program=190
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:BE:3:40:A00000:0:0:0:
+#EXTINF:-1 tvg-id="1:0:19:226E:438:1:C00000:0:0:0:" tvg-name="OCS MAX" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",OCS MAX#EXTVLCOPT:program=8814
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:226E:438:1:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="1:0:19:719:C5A8:16E:A00000:0:0:0:" tvg-name="Arena Sport 6 HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Arena Sport 6 HD#EXTVLCOPT:program=1817
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:719:C5A8:16E:A00000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:19:51:2:40:A00000:0:0:0:" tvg-name="Arena Sport 7 HD." tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Arena Sport 7 HD.#EXTVLCOPT:program=81
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:51:2:40:A00000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:19:71D:C5A8:16E:A00000:0:0:0:" tvg-name="Arena Sport 8 HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Arena Sport 8 HD#EXTVLCOPT:program=1821
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:71D:C5A8:16E:A00000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:19:47:3:40:A00000:0:0:0:" tvg-name="Arena Sport 9 HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Arena Sport 9 HD#EXTVLCOPT:program=71
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:47:3:40:A00000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:16:47:3:40:A00000:0:0:0:" tvg-name="Arena Sport 9 HD." tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Arena Sport 9 HD.#EXTVLCOPT:program=71
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:16:47:3:40:A00000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:19:42:1:40:A00000:0:0:0:" tvg-name="Arena Sport 10 HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Arena Sport 10 HD#EXTVLCOPT:program=66
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:42:1:40:A00000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:19:778:C6D4:16E:A00000:0:0:0:" tvg-name="Arena Sport 10 HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Arena Sport 10 HD#EXTVLCOPT:program=1912
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:778:C6D4:16E:A00000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:19:D9:1:40:A00000:0:0:0:" tvg-name="MAXSport 1." tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",MAXSport 1.#EXTVLCOPT:program=217
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:D9:1:40:A00000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:19:50:2:40:A00000:0:0:0:" tvg-name="MAXSport 2." tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",MAXSport 2.#EXTVLCOPT:program=80
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:50:2:40:A00000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:1:306:9D08:16E:A00000:0:0:0:" tvg-name="Sport TV 1" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Sport TV 1#EXTVLCOPT:program=774
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:1:306:9D08:16E:A00000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:19:306:9D08:16E:A00000:0:0:0:" tvg-name="Sport TV 1" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Sport TV 1#EXTVLCOPT:program=774
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:306:9D08:16E:A00000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:1:1168:9CA4:16E:A00000:0:0:0:" tvg-name="Nova Sport HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Nova Sport HD#EXTVLCOPT:program=4456
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:1:1168:9CA4:16E:A00000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:19:1168:9CA4:16E:A00000:0:0:0:" tvg-name="Nova Sport HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Nova Sport HD#EXTVLCOPT:program=4456
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:1168:9CA4:16E:A00000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:19:4CC:76C1:16E:A00000:0:0:0:" tvg-name="Sport 2 HD Czech" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Sport 2 HD Czech#EXTVLCOPT:program=1228
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:4CC:76C1:16E:A00000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:19:99:1:40:A00000:0:0:0:" tvg-name="Sport Klub Start" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Sport Klub Start#EXTVLCOPT:program=153
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:99:1:40:A00000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:19:5F:1:40:A00000:0:0:0:" tvg-name="Sport Klub 2 HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Sport Klub 2 HD#EXTVLCOPT:program=95
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:5F:1:40:A00000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:19:56:2:40:A00000:0:0:0:" tvg-name="Sport Klub 1 HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Sport Klub 1 HD#EXTVLCOPT:program=86
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:56:2:40:A00000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:19:6E2:C544:16E:A00000:0:0:0:" tvg-name="Sport Klub Golf" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Sport Klub Golf#EXTVLCOPT:program=1762
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:6E2:C544:16E:A00000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:19:2F1:9D08:16E:A00000:0:0:0:" tvg-name="Sport Klub 3 Slovenia" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Sport Klub 3 Slovenia#EXTVLCOPT:program=753
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:2F1:9D08:16E:A00000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:1F:48E:76C0:16E:A00000:0:0:0:" tvg-name="Sport 1 HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Sport 1 HD#EXTVLCOPT:program=1166
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:1F:48E:76C0:16E:A00000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:19:48E:76C0:16E:A00000:0:0:0:" tvg-name="Sport 1 HD Czech" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Sport 1 HD Czech#EXTVLCOPT:program=1166
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:48E:76C0:16E:A00000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:19:60:1:40:A00000:0:0:0:" tvg-name="Sport Klub 3 HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Sport Klub 3 HD#EXTVLCOPT:program=96
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:60:1:40:A00000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:1F:4CC:76C1:16E:A00000:0:0:0:" tvg-name="Sport 2 HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Sport 2 HD#EXTVLCOPT:program=1228
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:1F:4CC:76C1:16E:A00000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:19:25E:C418:16E:A00000:0:0:0:" tvg-name="Eurosport 1 HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Eurosport 1 HD#EXTVLCOPT:program=606
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:25E:C418:16E:A00000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:19:282:C418:16E:A00000:0:0:0:" tvg-name="Eurosport 1 HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Eurosport 1 HD#EXTVLCOPT:program=642
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:282:C418:16E:A00000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:19:4B1:76C1:16E:A00000:0:0:0:" tvg-name="Eurosport 2 HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Eurosport 2 HD#EXTVLCOPT:program=1201
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:4B1:76C1:16E:A00000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:19:283:C418:16E:A00000:0:0:0:" tvg-name="Eurosport 2 HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Eurosport 2 HD#EXTVLCOPT:program=643
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:283:C418:16E:A00000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:19:25F:C418:16E:A00000:0:0:0:" tvg-name="Eurosport 1 HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Eurosport 1 HD#EXTVLCOPT:program=607
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:25F:C418:16E:A00000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:1F:4B1:76C1:16E:A00000:0:0:0:" tvg-name="Eurosport 2 HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Eurosport 2 HD#EXTVLCOPT:program=1201
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:1F:4B1:76C1:16E:A00000:0:0:0:
+#EXTINF:-1 tvg-id="1:0:19:1F4B:42E:1:C00000:0:0:0:" tvg-name="6TER" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",6TER#EXTVLCOPT:program=8011
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:1F4B:42E:1:C00000:0:0:0:
 
 #EXTM3U 
 #EXTVLCOPT:http-reconnect=true
 
-#EXTINF:-1 tvg-id="1:0:1:3F5:7:1:E080000:0:0:0:" tvg-name="DIGI Sport 1" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR SPORTS",DIGI Sport 1#EXTVLCOPT:program=1013
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:1:3F5:7:1:E080000:0:0:0:
+#EXTINF:-1 tvg-id="1:0:19:2334:442:1:C00000:0:0:0:" tvg-name="C8" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",C8#EXTVLCOPT:program=9012
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:2334:442:1:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="1:0:1:40C:C:1:E080000:0:0:0:" tvg-name="DIGI Sport 3" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR SPORTS",DIGI Sport 3#EXTVLCOPT:program=1036
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:1:40C:C:1:E080000:0:0:0:
+#EXTINF:-1 tvg-id="1:0:19:21FF:44C:1:C00000:0:0:0:" tvg-name="TF1 SERIES FILMS" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",TF1 SERIES FILMS#EXTVLCOPT:program=8703
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:21FF:44C:1:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="1:0:19:FE6:D:1:E082E2F:0:0:0:" tvg-name="Digi Sport 1 HD (Romania)" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR SPORTS",Digi Sport 1 HD (Romania)#EXTVLCOPT:program=4070
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:FE6:D:1:E082E2F:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:1:3F2:1:1:E08318F:0:0:0:" tvg-name="DIGI Sport 2" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR SPORTS",DIGI Sport 2#EXTVLCOPT:program=1010
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:1:3F2:1:1:E08318F:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:19:FF0:D:1:E082E2F:0:0:0:" tvg-name="Digi Sport 2 HD Romania" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR SPORTS",Digi Sport 2 HD Romania#EXTVLCOPT:program=4080
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:FF0:D:1:E082E2F:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:1:40C:C:1:E082E7C:0:0:0:" tvg-name="Digi Sport 3 (Romania)" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR SPORTS",Digi Sport 3 (Romania)#EXTVLCOPT:program=1036
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:1:40C:C:1:E082E7C:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:19:FB4:AF4:BB:E080000:0:0:0:" tvg-name="PREMIER SPORT 1 CZ HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR SPORTS",PREMIER SPORT 1 CZ HD#EXTVLCOPT:program=4020
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:FB4:AF4:BB:E080000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:19:7DC:AF2:BB:E080000:0:0:0:" tvg-name="Premier Sport 2 HD (Slovakia)" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR SPORTS",Premier Sport 2 HD (Slovakia)#EXTVLCOPT:program=2012
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:7DC:AF2:BB:E080000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:19:BDE:AF3:BB:E080000:0:0:0:" tvg-name="PREMIER SPORT 1 SK HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR SPORTS",PREMIER SPORT 1 SK HD#EXTVLCOPT:program=3038
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:BDE:AF3:BB:E080000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:1:7606:2BE:600:E080000:0:0:0:" tvg-name="Sport2 CZE" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR SPORTS",Sport2 CZE#EXTVLCOPT:program=30214
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:1:7606:2BE:600:E080000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:1:78BF:2C5:600:E080000:0:0:0:" tvg-name="Sport 1 Czechia & Slovakia" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR SPORTS",Sport 1 Czechia & Slovakia#EXTVLCOPT:program=30911
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:1:78BF:2C5:600:E080000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:1:A32:5:1:E080000:0:0:0:" tvg-name="SPORT 1" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR SPORTS",SPORT 1#EXTVLCOPT:program=2610
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:1:A32:5:1:E080000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:1:D16:3:1:E080000:0:0:0:" tvg-name="Spiler 1" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR SPORTS",Spiler 1#EXTVLCOPT:program=3350
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:1:D16:3:1:E080000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:1:75B0:2BD:600:E080000:0:0:0:" tvg-name="Spiler2" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR SPORTS",Spiler2#EXTVLCOPT:program=30128
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:1:75B0:2BD:600:E080000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:1:7610:2BE:600:E080000:0:0:0:" tvg-name="Spiler TV" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR SPORTS",Spiler TV#EXTVLCOPT:program=30224
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:1:7610:2BE:600:E080000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:1:75B4:2BD:600:E080000:0:0:0:" tvg-name="Spiler2." tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR SPORTS",Spiler2.#EXTVLCOPT:program=30132
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:1:75B4:2BD:600:E080000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:19:7727:2C1:600:E080000:0:0:0:" tvg-name="Sport 1 HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR SPORTS",Sport 1 HD#EXTVLCOPT:program=30503
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:7727:2C1:600:E080000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:19:7921:2C6:600:E080000:0:0:0:" tvg-name="Sport 1 HD Czech" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR SPORTS",Sport 1 HD Czech#EXTVLCOPT:program=31009
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:7921:2C6:600:E080000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:1:A3C:5:1:E080000:0:0:0:" tvg-name="SPORT 2" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR SPORTS",SPORT 2#EXTVLCOPT:program=2620
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:1:A3C:5:1:E080000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:19:7729:2C1:600:E080000:0:0:0:" tvg-name="Sport 2 HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR SPORTS",Sport 2 HD#EXTVLCOPT:program=30505
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:7729:2C1:600:E080000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:19:FD2:D:1:E082E2F:0:0:0:" tvg-name="Sport 2 HD Hungary" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR SPORTS",Sport 2 HD Hungary#EXTVLCOPT:program=4050
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:FD2:D:1:E082E2F:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:1:75FD:2BE:600:E080000:0:0:0:" tvg-name="Sport2" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR SPORTS",Sport2#EXTVLCOPT:program=30205
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:1:75FD:2BE:600:E080000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:16:765D:2BF:600:E080000:0:0:0:" tvg-name="Sport 5" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/picon/1_0_1_765D_2BF_600_E080000_0_0_0.png" group-title="THOR SPORTS",Sport 5#EXTVLCOPT:program=30301
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:16:765D:2BF:600:E080000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:1:7670:2BF:600:E080000:0:0:0:" tvg-name="Sport1 CZE" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR SPORTS",Sport1 CZE#EXTVLCOPT:program=30320
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:1:7670:2BF:600:E080000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:1:76DE:2C0:600:E080000:0:0:0:" tvg-name="Sport Extra" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR SPORTS",Sport Extra#EXTVLCOPT:program=30430
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:1:76DE:2C0:600:E080000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:1:7598:2BD:600:E080000:0:0:0:" tvg-name="Sport1" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR SPORTS",Sport1#EXTVLCOPT:program=30104
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:1:7598:2BD:600:E080000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:16:1C94:A:46:E080000:0:0:0:" tvg-name="Sport Live" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR SPORTS",Sport Live#EXTVLCOPT:program=7316
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:16:1C94:A:46:E080000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:19:1C94:A:46:E080000:0:0:0:" tvg-name="Sport Live" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR SPORTS",Sport Live#EXTVLCOPT:program=7316
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:1C94:A:46:E080000:0:0:0:
-
-#EXTM3U 
-#EXTVLCOPT:http-reconnect=true
+#EXTINF:-1 tvg-id="1:0:19:232B:442:1:C00000:0:0:0:" tvg-name="TF1 SERIES FILMS" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",TF1 SERIES FILMS#EXTVLCOPT:program=9003
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:232B:442:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-id="1:0:19:1F42:42E:1:C00000:0:0:0:" tvg-name="OLYMPIA TV" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",OLYMPIA TV#EXTVLCOPT:program=8002
 http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:1F42:42E:1:C00000:0:0:0:
@@ -280,9 +118,6 @@ http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.
 
 #EXTINF:-1 tvg-id="1:0:19:428B:446:1:C00000:0:0:0:" tvg-name="RTL9" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",RTL9#EXTVLCOPT:program=17035
 http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:428B:446:1:C00000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:19:200D:430:1:C00000:0:0:0:" tvg-name="CANAL+BOX OFFICE" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",CANAL+BOX OFFICE#EXTVLCOPT:program=8205
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:200D:430:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-id="1:0:19:219F:448:1:C00000:0:0:0:" tvg-name="SEASONS" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",SEASONS#EXTVLCOPT:program=8607
 http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:219F:448:1:C00000:0:0:0:
@@ -329,23 +164,11 @@ http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.
 #EXTINF:-1 tvg-id="1:0:19:2015:430:1:C00000:0:0:0:" tvg-name="TMC" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",TMC#EXTVLCOPT:program=8213
 http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:2015:430:1:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="1:0:19:232B:442:1:C00000:0:0:0:" tvg-name="TF1 SERIES FILMS" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",TF1 SERIES FILMS#EXTVLCOPT:program=9003
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:232B:442:1:C00000:0:0:0:
-
 #EXTINF:-1 tvg-id="1:0:19:2459:440:1:C00000:0:0:0:" tvg-name="USHUAIA TV" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",USHUAIA TV#EXTVLCOPT:program=9305
 http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:2459:440:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-id="1:0:19:2018:430:1:C00000:0:0:0:" tvg-name="CANAL J" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",CANAL J#EXTVLCOPT:program=8216
 http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:2018:430:1:C00000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:19:1F4B:42E:1:C00000:0:0:0:" tvg-name="6TER" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",6TER#EXTVLCOPT:program=8011
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:1F4B:42E:1:C00000:0:0:0:
-
-#EXTM3U 
-#EXTVLCOPT:http-reconnect=true
-
-#EXTINF:-1 tvg-id="1:0:19:207A:432:1:C00000:0:0:0:" tvg-name="CANAL+GRAND ECRAN" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",CANAL+GRAND ECRAN#EXTVLCOPT:program=8314
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:207A:432:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-id="1:0:1:2F6C:454:1:C00000:0:0:0:" tvg-name="Cherie 25" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",Cherie 25#EXTVLCOPT:program=12140
 http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:1:2F6C:454:1:C00000:0:0:0:
@@ -379,9 +202,6 @@ http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.
 
 #EXTINF:-1 tvg-id="1:0:19:2662:460:1:C00000:0:0:0:" tvg-name="EVENEMENT SPORT 4K UHD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",EVENEMENT SPORT 4K UHD#EXTVLCOPT:program=9826
 http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:2662:460:1:C00000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:19:21FF:44C:1:C00000:0:0:0:" tvg-name="TF1 SERIES FILMS" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",TF1 SERIES FILMS#EXTVLCOPT:program=8703
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:21FF:44C:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-id="1:0:19:1F45:42E:1:C00000:0:0:0:" tvg-name="FRANCEINFO:" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",FRANCEINFO:#EXTVLCOPT:program=8005
 http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:1F45:42E:1:C00000:0:0:0:
@@ -458,72 +278,6 @@ http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.
 #EXTINF:-1 tvg-id="1:0:19:24BF:43C:1:C00000:0:0:0:" tvg-name="NOVELAS TV" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",NOVELAS TV#EXTVLCOPT:program=9407
 http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:24BF:43C:1:C00000:0:0:0:
 
-#EXTINF:-1 tvg-id="1:0:19:2460:440:1:C00000:0:0:0:" tvg-name="TF1" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",TF1#EXTVLCOPT:program=9312
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:2460:440:1:C00000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:19:245A:440:1:C00000:0:0:0:" tvg-name="FRANCE 2" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",FRANCE 2#EXTVLCOPT:program=9306
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:245A:440:1:C00000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:19:245D:440:1:C00000:0:0:0:" tvg-name="FRANCE 3" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",FRANCE 3#EXTVLCOPT:program=9309
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:245D:440:1:C00000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:19:21FD:44C:1:C00000:0:0:0:" tvg-name="FRANCE 4" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",FRANCE 4#EXTVLCOPT:program=8701
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:21FD:44C:1:C00000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:19:2330:442:1:C00000:0:0:0:" tvg-name="FRANCE 5" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",FRANCE 5#EXTVLCOPT:program=9008
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:2330:442:1:C00000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:19:2457:440:1:C00000:0:0:0:" tvg-name="M6" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",M6#EXTVLCOPT:program=9303
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:2457:440:1:C00000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:19:2458:440:1:C00000:0:0:0:" tvg-name="W9" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",W9#EXTVLCOPT:program=9304
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:2458:440:1:C00000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:19:2334:442:1:C00000:0:0:0:" tvg-name="C8" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",C8#EXTVLCOPT:program=9012
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:2334:442:1:C00000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:19:2261:438:1:C00000:0:0:0:" tvg-name="CANAL+" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",CANAL+#EXTVLCOPT:program=8801
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:2261:438:1:C00000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:19:22CD:434:1:C00000:0:0:0:" tvg-name="CANAL+" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",CANAL+#EXTVLCOPT:program=8909
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:22CD:434:1:C00000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:19:2263:438:1:C00000:0:0:0:" tvg-name="CANAL+CINEMA(S)" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",CANAL+CINEMA(S)#EXTVLCOPT:program=8803
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:2263:438:1:C00000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:19:2266:438:1:C00000:0:0:0:" tvg-name="CANAL+SERIES" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",CANAL+SERIES#EXTVLCOPT:program=8806
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:2266:438:1:C00000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:19:245B:440:1:C00000:0:0:0:" tvg-name="CINE+ EMOTION" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",CINE+ EMOTION#EXTVLCOPT:program=9307
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:245B:440:1:C00000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:19:2267:438:1:C00000:0:0:0:" tvg-name="CINE+ FRISSON" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",CINE+ FRISSON#EXTVLCOPT:program=8807
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:2267:438:1:C00000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:19:2456:440:1:C00000:0:0:0:" tvg-name="CINE+ PREMIER" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",CINE+ PREMIER#EXTVLCOPT:program=9302
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:2456:440:1:C00000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:19:2268:438:1:C00000:0:0:0:" tvg-name="CINE+ FAMIZ" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",CINE+ FAMIZ#EXTVLCOPT:program=8808
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:2268:438:1:C00000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:19:2269:438:1:C00000:0:0:0:" tvg-name="CINE+ CLASSIC" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",CINE+ CLASSIC#EXTVLCOPT:program=8809
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:2269:438:1:C00000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:19:200E:430:1:C00000:0:0:0:" tvg-name="CINE+ CLUB" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",CINE+ CLUB#EXTVLCOPT:program=8206
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:200E:430:1:C00000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:19:226E:438:1:C00000:0:0:0:" tvg-name="OCS MAX" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",OCS MAX#EXTVLCOPT:program=8814
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:226E:438:1:C00000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:19:24BC:43C:1:C00000:0:0:0:" tvg-name="OCS PULP" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",OCS PULP#EXTVLCOPT:program=9404
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:24BC:43C:1:C00000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:19:226D:438:1:C00000:0:0:0:" tvg-name="OCS CITY" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",OCS CITY#EXTVLCOPT:program=8813
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:226D:438:1:C00000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:19:219A:448:1:C00000:0:0:0:" tvg-name="OCS GEANTS" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",OCS GEANTS#EXTVLCOPT:program=8602
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:219A:448:1:C00000:0:0:0:
-
 #EXTINF:-1 tvg-id="1:0:19:2335:442:1:C00000:0:0:0:" tvg-name="CSTAR" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",CSTAR#EXTVLCOPT:program=9013
 http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:2335:442:1:C00000:0:0:0:
 
@@ -580,6 +334,30 @@ http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.
 
 #EXTINF:-1 tvg-id="1:0:19:22CE:434:1:C00000:0:0:0:" tvg-name="CANAL+DOCS" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE",CANAL+DOCS#EXTVLCOPT:program=8910
 http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:22CE:434:1:C00000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:19:2264:438:1:C00000:0:0:0:" tvg-name="CANAL+SPORT" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="CANALSAT SPORTS",CANAL+SPORT#EXTVLCOPT:program=8804
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:2264:438:1:C00000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:19:24C8:43C:1:C00000:0:0:0:" tvg-name="CANAL+SPORT360" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="CANALSAT SPORTS",CANAL+SPORT360#EXTVLCOPT:program=9416
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:24C8:43C:1:C00000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:19:2271:438:1:C00000:0:0:0:" tvg-name="CANAL+FOOT" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="CANALSAT SPORTS",CANAL+FOOT#EXTVLCOPT:program=8817
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:2271:438:1:C00000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:19:2461:440:1:C00000:0:0:0:" tvg-name="EUROSPORT 1" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="CANALSAT SPORTS",EUROSPORT 1#EXTVLCOPT:program=9313
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:2461:440:1:C00000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:19:24BE:43C:1:C00000:0:0:0:" tvg-name="EUROSPORT 2" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="CANALSAT SPORTS",EUROSPORT 2#EXTVLCOPT:program=9406
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:24BE:43C:1:C00000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:19:2332:442:1:C00000:0:0:0:" tvg-name="INFOSPORT+" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="CANALSAT SPORTS",INFOSPORT+#EXTVLCOPT:program=9010
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:2332:442:1:C00000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:19:2207:44C:1:C00000:0:0:0:" tvg-name="GOLF+" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="CANALSAT SPORTS",GOLF+#EXTVLCOPT:program=8711
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:2207:44C:1:C00000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:19:2076:432:1:C00000:0:0:0:" tvg-name="L*EQUIPE" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="CANALSAT SPORTS",L*EQUIPE#EXTVLCOPT:program=8310
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:2076:432:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-id="1:0:19:22ED:80D:2:11A0000:0:0:0:" tvg-name="BBC One WM HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="UK",BBC One WM HD#EXTVLCOPT:program=8941
 http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:22ED:80D:2:11A0000:0:0:0:
@@ -1205,7 +983,7 @@ http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.
 #EXTINF:-1 tvg-id="1:0:19:17B4:C82:3:EB0000:0:0:0:" tvg-name="ESPN 4 HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="NETHERLANDS",ESPN 4 HD#EXTVLCOPT:program=6068
 http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:17B4:C82:3:EB0000:0:0:0:
 
-#EXTINF:-1 tvg-id="1:0:19:5221:C99:3:EB0000:0:0:0:" tvg-name="één HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="NETHERLANDS",één HD#EXTVLCOPT:program=21025
+#EXTINF:-1 tvg-id="1:0:19:5221:C99:3:EB0000:0:0:0:" tvg-name="  n HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="NETHERLANDS",  n HD#EXTVLCOPT:program=21025
 http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:5221:C99:3:EB0000:0:0:0:
 
 #EXTINF:-1 tvg-id="1:0:19:178E:C82:3:EB0000:0:0:0:" tvg-name="Fox (Netherlands)" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="NETHERLANDS",Fox (Netherlands)#EXTVLCOPT:program=6030
@@ -1262,7 +1040,7 @@ http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.
 #EXTINF:-1 tvg-id="1:0:19:5268:C99:3:EB0000:0:0:0:" tvg-name="Omroep Brabant Televisie" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="NETHERLANDS",Omroep Brabant Televisie#EXTVLCOPT:program=21096
 http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:5268:C99:3:EB0000:0:0:0:
 
-#EXTINF:-1 tvg-id="1:0:19:524D:C99:3:EB0000:0:0:0:" tvg-name="Omrop Fryslân" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="NETHERLANDS",Omrop Fryslân#EXTVLCOPT:program=21069
+#EXTINF:-1 tvg-id="1:0:19:524D:C99:3:EB0000:0:0:0:" tvg-name="Omrop Frysl n" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="NETHERLANDS",Omrop Frysl n#EXTVLCOPT:program=21069
 http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:524D:C99:3:EB0000:0:0:0:
 
 #EXTINF:-1 tvg-id="1:0:19:17B3:C82:3:EB0000:0:0:0:" tvg-name="ONS" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="NETHERLANDS",ONS#EXTVLCOPT:program=6067
@@ -1838,13 +1616,13 @@ http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.
 #EXTINF:-1 tvg-id="1:0:19:9B:65:53:FED40000:0:0:0:" tvg-name="RTP 3" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="PORTUGAL",RTP 3#EXTVLCOPT:program=155
 http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:9B:65:53:FED40000:0:0:0:
 
-#EXTINF:-1 tvg-id="1:0:19:6B:65:53:FED40000:0:0:0:" tvg-name="RTP Açores" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="PORTUGAL",RTP Açores#EXTVLCOPT:program=107
+#EXTINF:-1 tvg-id="1:0:19:6B:65:53:FED40000:0:0:0:" tvg-name="RTP A ores" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="PORTUGAL",RTP A ores#EXTVLCOPT:program=107
 http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:6B:65:53:FED40000:0:0:0:
 
-#EXTINF:-1 tvg-id="1:0:19:77:65:53:FED40000:0:0:0:" tvg-name="RTP Açores" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="PORTUGAL",RTP Açores#EXTVLCOPT:program=119
+#EXTINF:-1 tvg-id="1:0:19:77:65:53:FED40000:0:0:0:" tvg-name="RTP A ores" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="PORTUGAL",RTP A ores#EXTVLCOPT:program=119
 http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:77:65:53:FED40000:0:0:0:
 
-#EXTINF:-1 tvg-id="1:0:19:A7:65:53:FED40000:0:0:0:" tvg-name="RTP Açores" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="PORTUGAL",RTP Açores#EXTVLCOPT:program=167
+#EXTINF:-1 tvg-id="1:0:19:A7:65:53:FED40000:0:0:0:" tvg-name="RTP A ores" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="PORTUGAL",RTP A ores#EXTVLCOPT:program=167
 http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:A7:65:53:FED40000:0:0:0:
 
 #EXTINF:-1 tvg-id="1:0:19:76:65:53:FED40000:0:0:0:" tvg-name="RTP Madeira" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="PORTUGAL",RTP Madeira#EXTVLCOPT:program=118
@@ -1928,19 +1706,19 @@ http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.
 #EXTINF:-1 tvg-id="1:0:19:12EC:30:36:CE40000:0:0:0:" tvg-name="Canal NOS" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="PORTUGAL",Canal NOS#EXTVLCOPT:program=4844
 http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:12EC:30:36:CE40000:0:0:0:
 
-#EXTINF:-1 tvg-id="1:0:19:32F:2F:36:CE43095:0:0:0:" tvg-name="Caça & Pesca" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="PORTUGAL",Caça & Pesca#EXTVLCOPT:program=815
+#EXTINF:-1 tvg-id="1:0:19:32F:2F:36:CE43095:0:0:0:" tvg-name="Ca a & Pesca" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="PORTUGAL",Ca a & Pesca#EXTVLCOPT:program=815
 http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:32F:2F:36:CE43095:0:0:0:
 
-#EXTINF:-1 tvg-id="1:0:19:32F:27:36:CE40000:0:0:0:" tvg-name="Caça & Pesca" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="PORTUGAL",Caça & Pesca#EXTVLCOPT:program=815
+#EXTINF:-1 tvg-id="1:0:19:32F:27:36:CE40000:0:0:0:" tvg-name="Ca a & Pesca" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="PORTUGAL",Ca a & Pesca#EXTVLCOPT:program=815
 http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:32F:27:36:CE40000:0:0:0:
 
-#EXTINF:-1 tvg-id="1:0:19:178F:26:36:FED40000:0:0:0:" tvg-name="Canção Nova" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="PORTUGAL",Canção Nova#EXTVLCOPT:program=6031
+#EXTINF:-1 tvg-id="1:0:19:178F:26:36:FED40000:0:0:0:" tvg-name="Can  o Nova" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="PORTUGAL",Can  o Nova#EXTVLCOPT:program=6031
 http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:178F:26:36:FED40000:0:0:0:
 
-#EXTINF:-1 tvg-id="1:0:19:12F4:30:36:CE40000:0:0:0:" tvg-name="Canção Nova" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="PORTUGAL",Canção Nova#EXTVLCOPT:program=4852
+#EXTINF:-1 tvg-id="1:0:19:12F4:30:36:CE40000:0:0:0:" tvg-name="Can  o Nova" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="PORTUGAL",Can  o Nova#EXTVLCOPT:program=4852
 http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:12F4:30:36:CE40000:0:0:0:
 
-#EXTINF:-1 tvg-id="1:0:19:17C8:30:36:CE40000:0:0:0:" tvg-name="Canção Nova" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="PORTUGAL",Canção Nova#EXTVLCOPT:program=6088
+#EXTINF:-1 tvg-id="1:0:19:17C8:30:36:CE40000:0:0:0:" tvg-name="Can  o Nova" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="PORTUGAL",Can  o Nova#EXTVLCOPT:program=6088
 http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:17C8:30:36:CE40000:0:0:0:
 
 #EXTINF:-1 tvg-id="1:0:19:142:26:36:FED40000:0:0:0:" tvg-name="Cartoon Network" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="PORTUGAL",Cartoon Network#EXTVLCOPT:program=322
@@ -2162,7 +1940,7 @@ http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.
 #EXTINF:-1 tvg-id="1:0:19:9A:65:53:FED40000:0:0:0:" tvg-name="TVI HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="PORTUGAL",TVI HD#EXTVLCOPT:program=154
 http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:9A:65:53:FED40000:0:0:0:
 
-#EXTINF:-1 tvg-id="1:0:19:37B:26:36:FED40000:0:0:0:" tvg-name="TVI Ficção" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="PORTUGAL",TVI Ficção#EXTVLCOPT:program=891
+#EXTINF:-1 tvg-id="1:0:19:37B:26:36:FED40000:0:0:0:" tvg-name="TVI Fic  o" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="PORTUGAL",TVI Fic  o#EXTVLCOPT:program=891
 http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:37B:26:36:FED40000:0:0:0:
 
 #EXTINF:-1 tvg-id="1:0:19:E6:30:36:CE40000:0:0:0:" tvg-name="TVI Reality" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="PORTUGAL",TVI Reality#EXTVLCOPT:program=230
@@ -2240,7 +2018,7 @@ http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.
 #EXTINF:-1 tvg-id="1:0:19:BC6:4E84:55F:DDE0000:0:0:0:" tvg-name="CSTAR" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE 5W",CSTAR#EXTVLCOPT:program=3014
 http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:BC6:4E84:55F:DDE0000:0:0:0:
 
-#EXTINF:-1 tvg-id="1:0:19:D3:4EE8:55F:DDE0000:0:0:0:" tvg-name="Chasse et Pêche" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE 5W",Chasse et Pêche#EXTVLCOPT:program=211
+#EXTINF:-1 tvg-id="1:0:19:D3:4EE8:55F:DDE0000:0:0:0:" tvg-name="Chasse et P che" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE 5W",Chasse et P che#EXTVLCOPT:program=211
 http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:D3:4EE8:55F:DDE0000:0:0:0:
 
 #EXTINF:-1 tvg-id="1:0:19:D7:4EE8:55F:DDE0000:0:0:0:" tvg-name="Crime District" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE 5W",Crime District#EXTVLCOPT:program=215
@@ -2273,7 +2051,7 @@ http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.
 #EXTINF:-1 tvg-id="1:0:19:1A9:4FB0:55F:DDE0000:0:0:0:" tvg-name="LCP" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE 5W",LCP#EXTVLCOPT:program=425
 http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:1A9:4FB0:55F:DDE0000:0:0:0:
 
-#EXTINF:-1 tvg-id="1:0:19:133:4F4C:55F:FFCE0000:0:0:0:" tvg-name="LCI - La Chaîne Info HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE 5W",LCI - La Chaîne Info HD#EXTVLCOPT:program=307
+#EXTINF:-1 tvg-id="1:0:19:133:4F4C:55F:FFCE0000:0:0:0:" tvg-name="LCI - La Cha ne Info HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE 5W",LCI - La Cha ne Info HD#EXTVLCOPT:program=307
 http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:133:4F4C:55F:FFCE0000:0:0:0:
 
 #EXTINF:-1 tvg-id="1:0:19:BB9:4E84:55F:DDE0000:0:0:0:" tvg-name="L*EQUIPE" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE 5W",L*EQUIPE#EXTVLCOPT:program=3001
@@ -2303,13 +2081,13 @@ http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.
 #EXTINF:-1 tvg-id="1:0:19:D1:4EE8:55F:DDE0000:0:0:0:" tvg-name="SCIENCE ET VIE" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE 5W",SCIENCE ET VIE#EXTVLCOPT:program=209
 http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:D1:4EE8:55F:DDE0000:0:0:0:
 
-#EXTINF:-1 tvg-id="1:0:19:DB:4EE8:55F:DDE0000:0:0:0:" tvg-name="Téva" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE 5W",Téva#EXTVLCOPT:program=219
+#EXTINF:-1 tvg-id="1:0:19:DB:4EE8:55F:DDE0000:0:0:0:" tvg-name="T va" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE 5W",T va#EXTVLCOPT:program=219
 http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:DB:4EE8:55F:DDE0000:0:0:0:
 
 #EXTINF:-1 tvg-id="1:0:19:CF:4EE8:55F:DDE0000:0:0:0:" tvg-name="TREK" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE 5W",TREK#EXTVLCOPT:program=207
 http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:CF:4EE8:55F:DDE0000:0:0:0:
 
-#EXTINF:-1 tvg-id="1:0:19:D2:4EE8:55F:DDE0000:0:0:0:" tvg-name="Toute l´Histoire" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE 5W",Toute l´Histoire#EXTVLCOPT:program=210
+#EXTINF:-1 tvg-id="1:0:19:D2:4EE8:55F:DDE0000:0:0:0:" tvg-name="Toute l Histoire" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE 5W",Toute l Histoire#EXTVLCOPT:program=210
 http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:D2:4EE8:55F:DDE0000:0:0:0:
 
 #EXTINF:-1 tvg-id="1:0:19:191:4FB0:55F:DDE0000:0:0:0:" tvg-name="TF1" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE 5W",TF1#EXTVLCOPT:program=401
@@ -2341,6 +2119,228 @@ http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.
 
 #EXTINF:-1 tvg-id="1:0:19:D9:4EE8:55F:DDE0000:0:0:0:" tvg-name="Dorcel" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="FRANCE 5W",Dorcel#EXTVLCOPT:program=217
 http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:D9:4EE8:55F:DDE0000:0:0:0:
+
+#EXTM3U 
+#EXTVLCOPT:http-reconnect=true
+
+#EXTINF:-1 tvg-id="1:0:19:3EC:50DC:16E:A00000:0:0:0:" tvg-name="SS-1 HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",SS-1 HD#EXTVLCOPT:program=1004
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:3EC:50DC:16E:A00000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:19:3ED:50DC:16E:A00000:0:0:0:" tvg-name="SS-2 HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",SS-2 HD#EXTVLCOPT:program=1005
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:3ED:50DC:16E:A00000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:19:3EE:50DC:16E:A00000:0:0:0:" tvg-name="SS-3 HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",SS-3 HD#EXTVLCOPT:program=1006
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:3EE:50DC:16E:A00000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:19:3EF:50DC:16E:A00000:0:0:0:" tvg-name="SS-4 HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",SS-4 HD#EXTVLCOPT:program=1007
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:3EF:50DC:16E:A00000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:19:7E4:5014:16E:A00000:0:0:0:" tvg-name="SS-5 HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",SS-5 HD#EXTVLCOPT:program=2020
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:7E4:5014:16E:A00000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:19:7EE:5014:16E:A00000:0:0:0:" tvg-name="SS-6 HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",SS-6 HD#EXTVLCOPT:program=2030
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:7EE:5014:16E:A00000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:19:58C:4F4C:16E:A00000:0:0:0:" tvg-name="SS-7 HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",SS-7 HD#EXTVLCOPT:program=1420
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:58C:4F4C:16E:A00000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:19:485:76C0:16E:A00000:0:0:0:" tvg-name="Arena Sport 1 HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Arena Sport 1 HD#EXTVLCOPT:program=1157
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:485:76C0:16E:A00000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:19:19C:3:40:A00000:0:0:0:" tvg-name="Arena Sport 1 HD." tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Arena Sport 1 HD.#EXTVLCOPT:program=412
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:19C:3:40:A00000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:19:710:C5A8:16E:A00000:0:0:0:" tvg-name="Arena Sport 2 HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Arena Sport 2 HD#EXTVLCOPT:program=1808
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:710:C5A8:16E:A00000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:16:4BA:76C1:16E:A00000:0:0:0:" tvg-name="Arena Sport 2" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Arena Sport 2#EXTVLCOPT:program=1210
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:16:4BA:76C1:16E:A00000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:19:4BA:76C1:16E:A00000:0:0:0:" tvg-name="Arena Sport 2 HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Arena Sport 2 HD#EXTVLCOPT:program=1210
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:4BA:76C1:16E:A00000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:19:6C:1:40:A00000:0:0:0:" tvg-name="Arena Sport 3 HD." tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Arena Sport 3 HD.#EXTVLCOPT:program=108
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:6C:1:40:A00000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:19:718:C5A8:16E:A00000:0:0:0:" tvg-name="Arena Sport 4 HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Arena Sport 4 HD#EXTVLCOPT:program=1816
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:718:C5A8:16E:A00000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:19:BE:3:40:A00000:0:0:0:" tvg-name="Arena Sport 5 HD." tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Arena Sport 5 HD.#EXTVLCOPT:program=190
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:BE:3:40:A00000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:19:719:C5A8:16E:A00000:0:0:0:" tvg-name="Arena Sport 6 HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Arena Sport 6 HD#EXTVLCOPT:program=1817
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:719:C5A8:16E:A00000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:19:51:2:40:A00000:0:0:0:" tvg-name="Arena Sport 7 HD." tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Arena Sport 7 HD.#EXTVLCOPT:program=81
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:51:2:40:A00000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:19:71D:C5A8:16E:A00000:0:0:0:" tvg-name="Arena Sport 8 HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Arena Sport 8 HD#EXTVLCOPT:program=1821
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:71D:C5A8:16E:A00000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:19:47:3:40:A00000:0:0:0:" tvg-name="Arena Sport 9 HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Arena Sport 9 HD#EXTVLCOPT:program=71
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:47:3:40:A00000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:16:47:3:40:A00000:0:0:0:" tvg-name="Arena Sport 9 HD." tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Arena Sport 9 HD.#EXTVLCOPT:program=71
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:16:47:3:40:A00000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:19:42:1:40:A00000:0:0:0:" tvg-name="Arena Sport 10 HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Arena Sport 10 HD#EXTVLCOPT:program=66
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:42:1:40:A00000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:19:778:C6D4:16E:A00000:0:0:0:" tvg-name="Arena Sport 10 HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Arena Sport 10 HD#EXTVLCOPT:program=1912
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:778:C6D4:16E:A00000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:19:D9:1:40:A00000:0:0:0:" tvg-name="MAXSport 1." tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",MAXSport 1.#EXTVLCOPT:program=217
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:D9:1:40:A00000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:19:50:2:40:A00000:0:0:0:" tvg-name="MAXSport 2." tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",MAXSport 2.#EXTVLCOPT:program=80
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:50:2:40:A00000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:1:306:9D08:16E:A00000:0:0:0:" tvg-name="Sport TV 1" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Sport TV 1#EXTVLCOPT:program=774
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:1:306:9D08:16E:A00000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:19:306:9D08:16E:A00000:0:0:0:" tvg-name="Sport TV 1" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Sport TV 1#EXTVLCOPT:program=774
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:306:9D08:16E:A00000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:1:1168:9CA4:16E:A00000:0:0:0:" tvg-name="Nova Sport HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Nova Sport HD#EXTVLCOPT:program=4456
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:1:1168:9CA4:16E:A00000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:19:1168:9CA4:16E:A00000:0:0:0:" tvg-name="Nova Sport HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Nova Sport HD#EXTVLCOPT:program=4456
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:1168:9CA4:16E:A00000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:19:4CC:76C1:16E:A00000:0:0:0:" tvg-name="Sport 2 HD Czech" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Sport 2 HD Czech#EXTVLCOPT:program=1228
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:4CC:76C1:16E:A00000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:19:99:1:40:A00000:0:0:0:" tvg-name="Sport Klub Start" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Sport Klub Start#EXTVLCOPT:program=153
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:99:1:40:A00000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:19:5F:1:40:A00000:0:0:0:" tvg-name="Sport Klub 2 HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Sport Klub 2 HD#EXTVLCOPT:program=95
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:5F:1:40:A00000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:19:56:2:40:A00000:0:0:0:" tvg-name="Sport Klub 1 HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Sport Klub 1 HD#EXTVLCOPT:program=86
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:56:2:40:A00000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:19:6E2:C544:16E:A00000:0:0:0:" tvg-name="Sport Klub Golf" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Sport Klub Golf#EXTVLCOPT:program=1762
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:6E2:C544:16E:A00000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:19:2F1:9D08:16E:A00000:0:0:0:" tvg-name="Sport Klub 3 Slovenia" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Sport Klub 3 Slovenia#EXTVLCOPT:program=753
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:2F1:9D08:16E:A00000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:1F:48E:76C0:16E:A00000:0:0:0:" tvg-name="Sport 1 HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Sport 1 HD#EXTVLCOPT:program=1166
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:1F:48E:76C0:16E:A00000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:19:48E:76C0:16E:A00000:0:0:0:" tvg-name="Sport 1 HD Czech" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Sport 1 HD Czech#EXTVLCOPT:program=1166
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:48E:76C0:16E:A00000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:19:60:1:40:A00000:0:0:0:" tvg-name="Sport Klub 3 HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Sport Klub 3 HD#EXTVLCOPT:program=96
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:60:1:40:A00000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:1F:4CC:76C1:16E:A00000:0:0:0:" tvg-name="Sport 2 HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Sport 2 HD#EXTVLCOPT:program=1228
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:1F:4CC:76C1:16E:A00000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:19:25E:C418:16E:A00000:0:0:0:" tvg-name="Eurosport 1 HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Eurosport 1 HD#EXTVLCOPT:program=606
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:25E:C418:16E:A00000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:19:282:C418:16E:A00000:0:0:0:" tvg-name="Eurosport 1 HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Eurosport 1 HD#EXTVLCOPT:program=642
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:282:C418:16E:A00000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:19:4B1:76C1:16E:A00000:0:0:0:" tvg-name="Eurosport 2 HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Eurosport 2 HD#EXTVLCOPT:program=1201
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:4B1:76C1:16E:A00000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:19:283:C418:16E:A00000:0:0:0:" tvg-name="Eurosport 2 HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Eurosport 2 HD#EXTVLCOPT:program=643
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:283:C418:16E:A00000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:19:25F:C418:16E:A00000:0:0:0:" tvg-name="Eurosport 1 HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Eurosport 1 HD#EXTVLCOPT:program=607
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:25F:C418:16E:A00000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:1F:4B1:76C1:16E:A00000:0:0:0:" tvg-name="Eurosport 2 HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT 16 SPORTS",Eurosport 2 HD#EXTVLCOPT:program=1201
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:1F:4B1:76C1:16E:A00000:0:0:0:
+
+#EXTM3U 
+#EXTVLCOPT:http-reconnect=true
+
+#EXTINF:-1 tvg-id="1:0:1:3F5:7:1:E080000:0:0:0:" tvg-name="DIGI Sport 1" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR SPORTS",DIGI Sport 1#EXTVLCOPT:program=1013
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:1:3F5:7:1:E080000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:1:40C:C:1:E080000:0:0:0:" tvg-name="DIGI Sport 3" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR SPORTS",DIGI Sport 3#EXTVLCOPT:program=1036
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:1:40C:C:1:E080000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:19:FE6:D:1:E082E2F:0:0:0:" tvg-name="Digi Sport 1 HD (Romania)" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR SPORTS",Digi Sport 1 HD (Romania)#EXTVLCOPT:program=4070
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:FE6:D:1:E082E2F:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:1:3F2:1:1:E08318F:0:0:0:" tvg-name="DIGI Sport 2" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR SPORTS",DIGI Sport 2#EXTVLCOPT:program=1010
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:1:3F2:1:1:E08318F:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:19:FF0:D:1:E082E2F:0:0:0:" tvg-name="Digi Sport 2 HD Romania" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR SPORTS",Digi Sport 2 HD Romania#EXTVLCOPT:program=4080
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:FF0:D:1:E082E2F:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:1:40C:C:1:E082E7C:0:0:0:" tvg-name="Digi Sport 3 (Romania)" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR SPORTS",Digi Sport 3 (Romania)#EXTVLCOPT:program=1036
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:1:40C:C:1:E082E7C:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:19:FB4:AF4:BB:E080000:0:0:0:" tvg-name="PREMIER SPORT 1 CZ HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR SPORTS",PREMIER SPORT 1 CZ HD#EXTVLCOPT:program=4020
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:FB4:AF4:BB:E080000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:19:7DC:AF2:BB:E080000:0:0:0:" tvg-name="Premier Sport 2 HD (Slovakia)" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR SPORTS",Premier Sport 2 HD (Slovakia)#EXTVLCOPT:program=2012
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:7DC:AF2:BB:E080000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:19:BDE:AF3:BB:E080000:0:0:0:" tvg-name="PREMIER SPORT 1 SK HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR SPORTS",PREMIER SPORT 1 SK HD#EXTVLCOPT:program=3038
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:BDE:AF3:BB:E080000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:1:7606:2BE:600:E080000:0:0:0:" tvg-name="Sport2 CZE" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR SPORTS",Sport2 CZE#EXTVLCOPT:program=30214
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:1:7606:2BE:600:E080000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:1:78BF:2C5:600:E080000:0:0:0:" tvg-name="Sport 1 Czechia & Slovakia" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR SPORTS",Sport 1 Czechia & Slovakia#EXTVLCOPT:program=30911
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:1:78BF:2C5:600:E080000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:1:A32:5:1:E080000:0:0:0:" tvg-name="SPORT 1" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR SPORTS",SPORT 1#EXTVLCOPT:program=2610
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:1:A32:5:1:E080000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:1:D16:3:1:E080000:0:0:0:" tvg-name="Spiler 1" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR SPORTS",Spiler 1#EXTVLCOPT:program=3350
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:1:D16:3:1:E080000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:1:75B0:2BD:600:E080000:0:0:0:" tvg-name="Spiler2" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR SPORTS",Spiler2#EXTVLCOPT:program=30128
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:1:75B0:2BD:600:E080000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:1:7610:2BE:600:E080000:0:0:0:" tvg-name="Spiler TV" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR SPORTS",Spiler TV#EXTVLCOPT:program=30224
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:1:7610:2BE:600:E080000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:1:75B4:2BD:600:E080000:0:0:0:" tvg-name="Spiler2." tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR SPORTS",Spiler2.#EXTVLCOPT:program=30132
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:1:75B4:2BD:600:E080000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:19:7727:2C1:600:E080000:0:0:0:" tvg-name="Sport 1 HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR SPORTS",Sport 1 HD#EXTVLCOPT:program=30503
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:7727:2C1:600:E080000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:19:7921:2C6:600:E080000:0:0:0:" tvg-name="Sport 1 HD Czech" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR SPORTS",Sport 1 HD Czech#EXTVLCOPT:program=31009
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:7921:2C6:600:E080000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:1:A3C:5:1:E080000:0:0:0:" tvg-name="SPORT 2" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR SPORTS",SPORT 2#EXTVLCOPT:program=2620
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:1:A3C:5:1:E080000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:19:7729:2C1:600:E080000:0:0:0:" tvg-name="Sport 2 HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR SPORTS",Sport 2 HD#EXTVLCOPT:program=30505
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:7729:2C1:600:E080000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:19:FD2:D:1:E082E2F:0:0:0:" tvg-name="Sport 2 HD Hungary" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR SPORTS",Sport 2 HD Hungary#EXTVLCOPT:program=4050
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:FD2:D:1:E082E2F:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:1:75FD:2BE:600:E080000:0:0:0:" tvg-name="Sport2" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR SPORTS",Sport2#EXTVLCOPT:program=30205
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:1:75FD:2BE:600:E080000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:16:765D:2BF:600:E080000:0:0:0:" tvg-name="Sport 5" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/picon/1_0_1_765D_2BF_600_E080000_0_0_0.png" group-title="THOR SPORTS",Sport 5#EXTVLCOPT:program=30301
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:16:765D:2BF:600:E080000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:1:7670:2BF:600:E080000:0:0:0:" tvg-name="Sport1 CZE" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR SPORTS",Sport1 CZE#EXTVLCOPT:program=30320
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:1:7670:2BF:600:E080000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:1:76DE:2C0:600:E080000:0:0:0:" tvg-name="Sport Extra" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR SPORTS",Sport Extra#EXTVLCOPT:program=30430
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:1:76DE:2C0:600:E080000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:1:7598:2BD:600:E080000:0:0:0:" tvg-name="Sport1" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR SPORTS",Sport1#EXTVLCOPT:program=30104
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:1:7598:2BD:600:E080000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:16:1C94:A:46:E080000:0:0:0:" tvg-name="Sport Live" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR SPORTS",Sport Live#EXTVLCOPT:program=7316
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:16:1C94:A:46:E080000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:19:1C94:A:46:E080000:0:0:0:" tvg-name="Sport Live" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR SPORTS",Sport Live#EXTVLCOPT:program=7316
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:1C94:A:46:E080000:0:0:0:
 
 #EXTM3U 
 #EXTVLCOPT:http-reconnect=true
@@ -2384,6 +2384,24 @@ http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.
 #EXTM3U 
 #EXTVLCOPT:http-reconnect=true
 
+#EXTINF:-1 tvg-id="1:0:19:3728:C8E:3:EB0000:0:0:0:" tvg-name="Penthouse Gold CZ" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="ASTRA 23 FLIX",Penthouse Gold CZ#EXTVLCOPT:program=14120
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:3728:C8E:3:EB0000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:19:372A:C8E:3:EB0000:0:0:0:" tvg-name="Penthouse Reality TV CZ" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="ASTRA 23 FLIX",Penthouse Reality TV CZ#EXTVLCOPT:program=14122
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:372A:C8E:3:EB0000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:19:3727:C8E:3:EB0000:0:0:0:" tvg-name="Penthouse Gold" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="ASTRA 23 FLIX",Penthouse Gold#EXTVLCOPT:program=14119
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:3727:C8E:3:EB0000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:19:3729:C8E:3:EB0000:0:0:0:" tvg-name="Penthouse Reality TV" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="ASTRA 23 FLIX",Penthouse Reality TV#EXTVLCOPT:program=14121
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:3729:C8E:3:EB0000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:19:316:C94:3:EB0000:0:0:0:" tvg-name="Vixen HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="ASTRA 23 FLIX",Vixen HD#EXTVLCOPT:program=790
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:316:C94:3:EB0000:0:0:0:
+
+#EXTM3U 
+#EXTVLCOPT:http-reconnect=true
+
 #EXTINF:-1 tvg-id="1:0:19:4BB:76C1:16E:A00000:0:0:0:" tvg-name="Extasy HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT16 FLIX",Extasy HD#EXTVLCOPT:program=1211
 http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:4BB:76C1:16E:A00000:0:0:0:
 
@@ -2413,63 +2431,6 @@ http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.
 
 #EXTINF:-1 tvg-id="1:0:19:4EC:4F4C:16E:A00000:0:0:0:" tvg-name="X1" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="EUTELSAT16 FLIX",X1#EXTVLCOPT:program=1260
 http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:4EC:4F4C:16E:A00000:0:0:0:
-
-#EXTM3U 
-#EXTVLCOPT:http-reconnect=true
-
-#EXTINF:-1 tvg-id="1:0:1:BD3:AF3:BB:E080000:0:0:0:" tvg-name="Dorcel TV" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR FLIX",Dorcel TV#EXTVLCOPT:program=3027
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:1:BD3:AF3:BB:E080000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:1:78D0:2C5:600:E080000:0:0:0:" tvg-name="Private TV." tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR FLIX",Private TV.#EXTVLCOPT:program=30928
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:1:78D0:2C5:600:E080000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:16:75AC:2BD:600:E080000:0:0:0:" tvg-name="Eroxxx" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR FLIX",Eroxxx#EXTVLCOPT:program=30124
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:16:75AC:2BD:600:E080000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:1:75AC:2BD:600:E080000:0:0:0:" tvg-name="EroXXX HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR FLIX",EroXXX HD#EXTVLCOPT:program=30124
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:1:75AC:2BD:600:E080000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:1:78C8:2C5:600:E080000:0:0:0:" tvg-name="Hustler" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR FLIX",Hustler#EXTVLCOPT:program=30920
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:1:78C8:2C5:600:E080000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:1:78BD:2C5:600:E080000:0:0:0:" tvg-name="Private TV" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR FLIX",Private TV#EXTVLCOPT:program=30909
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:1:78BD:2C5:600:E080000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:19:7E7:AF2:BB:E080000:0:0:0:" tvg-name="EroXXX HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR FLIX",EroXXX HD#EXTVLCOPT:program=2023
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:7E7:AF2:BB:E080000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:1:78D1:2C5:600:E080000:0:0:0:" tvg-name="Hustler." tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR FLIX",Hustler.#EXTVLCOPT:program=30929
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:1:78D1:2C5:600:E080000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:1:409:2:1:E080000:0:0:0:" tvg-name="SuperOne" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR FLIX",SuperOne#EXTVLCOPT:program=1033
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:1:409:2:1:E080000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:19:7665:2BF:600:E080000:0:0:0:" tvg-name="Vixen HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/picon/1_0_1_7665_2BF_600_E080000_0_0_0.png" group-title="THOR FLIX",Vixen HD#EXTVLCOPT:program=30309
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:7665:2BF:600:E080000:0:0:0:
-
-
-
-
-#EXTINF:-1 tvg-id="1:0:1:409:2:1:E080000:0:0:0:" tvg-name="SuperOne" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR FLIX",SuperOne#EXTVLCOPT:program=1033
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:1:409:2:1:E080000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:19:7665:2BF:600:E080000:0:0:0:" tvg-name="Vixen HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/picon/1_0_1_7665_2BF_600_E080000_0_0_0.png" group-title="THOR FLIX",Vixen HD#EXTVLCOPT:program=30309
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:7665:2BF:600:E080000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:19:3728:C8E:3:EB0000:0:0:0:" tvg-name="Penthouse Gold CZ" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="BULGARSAT FLIX",Penthouse Gold CZ#EXTVLCOPT:program=14120
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:3728:C8E:3:EB0000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:19:372A:C8E:3:EB0000:0:0:0:" tvg-name="Penthouse Reality TV CZ" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="BULGARSAT FLIX",Penthouse Reality TV CZ#EXTVLCOPT:program=14122
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:372A:C8E:3:EB0000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:19:3727:C8E:3:EB0000:0:0:0:" tvg-name="Penthouse Gold" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="BULGARSAT FLIX",Penthouse Gold#EXTVLCOPT:program=14119
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:3727:C8E:3:EB0000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:19:3729:C8E:3:EB0000:0:0:0:" tvg-name="Penthouse Reality TV" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="BULGARSAT FLIX",Penthouse Reality TV#EXTVLCOPT:program=14121
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:3729:C8E:3:EB0000:0:0:0:
-
-#EXTINF:-1 tvg-id="1:0:19:316:C94:3:EB0000:0:0:0:" tvg-name="Vixen HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="BULGARSAT FLIX",Vixen HD#EXTVLCOPT:program=790
-http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:316:C94:3:EB0000:0:0:0:
 
 #EXTM3U 
 #EXTVLCOPT:http-reconnect=true
@@ -2527,6 +2488,45 @@ http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.
 
 #EXTM3U 
 #EXTVLCOPT:http-reconnect=true
+
+#EXTINF:-1 tvg-id="1:0:1:BD3:AF3:BB:E080000:0:0:0:" tvg-name="Dorcel TV" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR FLIX",Dorcel TV#EXTVLCOPT:program=3027
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:1:BD3:AF3:BB:E080000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:1:78D0:2C5:600:E080000:0:0:0:" tvg-name="Private TV." tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR FLIX",Private TV.#EXTVLCOPT:program=30928
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:1:78D0:2C5:600:E080000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:16:75AC:2BD:600:E080000:0:0:0:" tvg-name="Eroxxx" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR FLIX",Eroxxx#EXTVLCOPT:program=30124
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:16:75AC:2BD:600:E080000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:1:75AC:2BD:600:E080000:0:0:0:" tvg-name="EroXXX HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR FLIX",EroXXX HD#EXTVLCOPT:program=30124
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:1:75AC:2BD:600:E080000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:1:78C8:2C5:600:E080000:0:0:0:" tvg-name="Hustler" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR FLIX",Hustler#EXTVLCOPT:program=30920
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:1:78C8:2C5:600:E080000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:1:78BD:2C5:600:E080000:0:0:0:" tvg-name="Private TV" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR FLIX",Private TV#EXTVLCOPT:program=30909
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:1:78BD:2C5:600:E080000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:19:7E7:AF2:BB:E080000:0:0:0:" tvg-name="EroXXX HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR FLIX",EroXXX HD#EXTVLCOPT:program=2023
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:7E7:AF2:BB:E080000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:1:78D1:2C5:600:E080000:0:0:0:" tvg-name="Hustler." tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR FLIX",Hustler.#EXTVLCOPT:program=30929
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:1:78D1:2C5:600:E080000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:1:409:2:1:E080000:0:0:0:" tvg-name="SuperOne" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR FLIX",SuperOne#EXTVLCOPT:program=1033
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:1:409:2:1:E080000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:19:7665:2BF:600:E080000:0:0:0:" tvg-name="Vixen HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/picon/1_0_1_7665_2BF_600_E080000_0_0_0.png" group-title="THOR FLIX",Vixen HD#EXTVLCOPT:program=30309
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:7665:2BF:600:E080000:0:0:0:
+
+
+
+
+#EXTINF:-1 tvg-id="1:0:1:409:2:1:E080000:0:0:0:" tvg-name="SuperOne" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="THOR FLIX",SuperOne#EXTVLCOPT:program=1033
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:1:409:2:1:E080000:0:0:0:
+
+#EXTINF:-1 tvg-id="1:0:19:7665:2BF:600:E080000:0:0:0:" tvg-name="Vixen HD" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/picon/1_0_1_7665_2BF_600_E080000_0_0_0.png" group-title="THOR FLIX",Vixen HD#EXTVLCOPT:program=30309
+http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:7665:2BF:600:E080000:0:0:0:
 
 #EXTINF:-1 tvg-id="1:0:19:17AB:2F:36:CE43095:0:0:0:" tvg-name="Venus TV Argentina" tvg-logo="http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111/images/default_picon.png" group-title="HISPASAT FLIX",Venus TV Argentina#EXTVLCOPT:program=6059
 http://-sid:82cb9f94109d08b0ff008d0c86ef9e1efe7380151bf78fe8a4b941c968ed4fb0@92.232.180.111:8014/1:0:19:17AB:2F:36:CE43095:0:0:0:
